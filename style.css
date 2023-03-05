@@ -89,12 +89,12 @@ header{
         overflow-y: auto;
         left: 100%;
         padding-top: 100px;
-        padding-left: 10%;
+        
         
         transition: left 0.3s;
     }
     .nav-menu .seleccionado{
-        color: #43aa8b;
+        color: #FFF;
 
     }
     
